@@ -74,17 +74,15 @@ const wz790 = {
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wz790&show_icons=true&theme=radical)](https://github.com/wz790)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wz790&show_icons=true&theme=tokyonight)](https://github.com/wz790)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wz790&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/wz790)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wz790&theme=tokyonight)](https://github.com/wz790)
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wz790&layout=compact&theme=radical)](https://github.com/wz790)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wz790&layout=compact&theme=tokyonight)](https://github.com/wz790)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=wz790&theme=radical&row=1)](https://github.com/wz790)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=wz790&theme=tokyonight&row=1)](https://github.com/wz790)
 
 </div>
-
-
 ---
 
 ## 🎯 Current Projects
@@ -114,12 +112,6 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 - Email: [Your Email if you want to share]
 - GitHub: [@wz790](https://github.com/wz790)
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem" />
-</div>
-
 ## 🤝 Support Me
 
 <div align="center">
@@ -137,6 +129,6 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 
 <p>Thanks for visiting! Here's a snake eating my contributions 🐍</p>
   
-![Snake animation](https://github.com/wz790/wz790/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://steamuserimages-a.akamaihd.net/ugc/863989620072885420/2AC2B84A520A531E38433F3BE2D81D422DFE06AA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 </div>
