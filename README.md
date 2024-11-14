@@ -4,14 +4,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+Learning+New+Things;&font=Fira%20Code&center=true&width=600&height=60&color=00BFFF&vCenter=true&size=30&pause=1200&duration=3800">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+Learning+New+Things;&font=Fira%20Code&center=true&width=600&height=30&color=00BFFF&vCenter=true&size=20&pause=1200&duration=3800">
 </p>
 
 <!-- Skills/Interest Badges with Dark Theme and Color Balance -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🚀%20Passionate%20Coder-1a1a1a?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00BFFF">
   <img src="https://img.shields.io/badge/-📚%20Always%20Learning-1a1a1a?style=for-the-badge&logo=Udemy&logoColor=FFD700">
-  <img src="https://img.shields.io/badge/-💻%20Open%20Source%20Contributor-1a1a1a?style=for-the-badge&logo=GitHub&logoColor=32CD32">
 </p>
 
 <div align="center">
