@@ -43,7 +43,8 @@ const wz790 = {
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+  <img alt="XAML" src="https://custom-icon-badges.demolab.com/badge/XAML-%230000FF.svg?logo=xml&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
@@ -53,7 +54,8 @@ const wz790 = {
 
 ### 🧰 Frameworks and Libraries
 
-<p>
+<p>  
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
   <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-7289DA.svg?logo=discord&logoColor=white">
