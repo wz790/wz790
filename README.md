@@ -101,8 +101,7 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 
 ## 💬 Get in Touch
 
-- Discord: [Your Discord Username]
-- Email: [Your Email if you want to share]
+- Discord: [@wz790](https://discord.com/users/wz790)
 - GitHub: [@wz790](https://github.com/wz790)
 
 ## 🤝 Support Me
