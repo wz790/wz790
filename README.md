@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=<span style='font-weight:bold;background:linear-gradient(to right,%20%23ff6b6b,%20%23ffa500,%20%23ffdd00);-webkit-background-clip:text;-webkit-text-fill-color:transparent;'>Full Stack Developer</span>;&lines=<span style='font-weight:bold;background:linear-gradient(to right,%20%23ffa500,%20%23ffdd00,%20%239b59b6);-webkit-background-clip:text;-webkit-text-fill-color:transparent;'>Discord Bot Developer</span>;&lines=<span style='font-weight:bold;background:linear-gradient(to right,%20%23ffdd00,%20%239b59b6,%20%23e74c3c);-webkit-background-clip:text;-webkit-text-fill-color:transparent;'>Always learning new things</span>&font=Fira%20Code&center=true&width=380&height=50&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=ffdd00&vCenter=true&size=24&bold=true">
 </p>
 
 <div align="center">
