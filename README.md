@@ -71,6 +71,20 @@ const wz790 = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wz790&show_icons=true&theme=radical)](https://github.com/wz790)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wz790&theme=radical)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wz790&layout=compact&theme=radical)](https://github.com/wz790)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=wz790&theme=radical&row=1)](https://github.com/wz790)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wz790&show_icons=true&theme=radical" alt="wz790's GitHub Stats" />
 </div>
 
