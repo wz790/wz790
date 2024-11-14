@@ -110,7 +110,7 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 
 <div align="center">
   <p>If you like what I do, maybe consider buying me a coffee 🥺👉👈</p>
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <a href="https://www.buymeacoffee.com/wz790" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
 ---
