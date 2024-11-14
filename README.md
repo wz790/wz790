@@ -4,13 +4,14 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+learning+new+things;&font=Fira%20Code&center=true&width=550&height=60&color=00BFFF&vCenter=true&size=28&pause=1000&duration=4000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+Learning+New+Things;&font=Fira%20Code&center=true&width=600&height=60&color=00BFFF&vCenter=true&size=30&pause=1200&duration=3800">
 </p>
 
+<!-- Skills/Interest Badges with Dark Theme and Color Balance -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Passionate%20Coder-0D1117?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00BFFF">
-  <img src="https://img.shields.io/badge/-Always%20Learning-0D1117?style=for-the-badge&logo=Udemy&logoColor=ffdd00">
-  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-0D1117?style=for-the-badge&logo=GitHub&logoColor=green">
+  <img src="https://img.shields.io/badge/-🚀%20Passionate%20Coder-1a1a1a?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00BFFF">
+  <img src="https://img.shields.io/badge/-📚%20Always%20Learning-1a1a1a?style=for-the-badge&logo=Udemy&logoColor=FFD700">
+  <img src="https://img.shields.io/badge/-💻%20Open%20Source%20Contributor-1a1a1a?style=for-the-badge&logo=GitHub&logoColor=32CD32">
 </p>
 
 <div align="center">
