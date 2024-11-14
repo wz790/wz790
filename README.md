@@ -18,7 +18,7 @@
 ```javascript
 const wz790 = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Node.js", "HTML", "CSS"],
+    code: ["C#", "Javascript", "Python", "Node.js", "HTML", "CSS"],
     askMeAbout: ["web dev", "discord bots", "gaming", "tech"],
     technologies: {
         backEnd: {
@@ -30,8 +30,8 @@ const wz790 = {
             css: ["tailwind", "bootstrap"]
         },
         databases: ["MongoDB", "MySQL"],
-        devOps: ["AWS", "Docker"],
-        tools: ["Git", "GitHub", "VSCode"]
+        devOps: ["Docker"],
+        tools: ["Git", "GitHub", "VSCode", "JetBrains rider", "Visual Studio Community"]
     },
     currentFocus: "Building awesome Discord bots and web applications",
     funFact: "There are two ways to write error-free programs; only the third one works"
