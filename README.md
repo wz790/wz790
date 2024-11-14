@@ -3,26 +3,9 @@
   Hey there! I'm wz790
 </h2>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 50">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffd54f" />
-      <stop offset="50%" stop-color="#ffb300" />
-      <stop offset="100%" stop-color="#ff9100" />
-    </linearGradient>
-  </defs>
-  <style>
-    .text {
-      font-family: 'Fira Code', monospace;
-      font-size: 24px;
-      fill: url(#gradient);
-      font-weight: bold;
-    }
-  </style>
-  <text x="50%" y="30%" text-anchor="middle" class="text">Full Stack Developer</text>
-  <text x="50%" y="65%" text-anchor="middle" class="text">Discord Bot Developer</text>
-  <text x="50%" y="100%" text-anchor="middle" class="text">Always learning new things</text>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
 <div align="center">
   
