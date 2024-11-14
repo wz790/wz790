@@ -1,7 +1,6 @@
 <h2 align="center">
-  <img src="/api/placeholder/100/100" alt="cool wave" width="50"><br>
+  <img src="https://media1.tenor.com/m/AuBOgaPV41cAAAAd/shinya-shinyahiragi.gif" alt="cool wave" width="50"><br>
   Hey there! I'm wz790
-  <img src="/api/placeholder/100/100" alt="wave" width="35">
 </h2>
 
 <p align="center">
