@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=ffdd00&vCenter=true&size=24&bold=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📚+Always+learning+new+things&font=Fira%20Code&center=true&width=500&height=50&color=00BFFF&vCenter=true&size=26&bold=true">
 </p>
 
 <div align="center">
