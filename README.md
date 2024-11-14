@@ -76,12 +76,6 @@ const wz790 = {
   
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wz790&show_icons=true&theme=tokyonight)](https://github.com/wz790)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wz790&theme=tokyonight)](https://github.com/wz790)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wz790&layout=compact&theme=tokyonight)](https://github.com/wz790)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=wz790&theme=tokyonight&row=1)](https://github.com/wz790)
-
 </div>
 ---
 
