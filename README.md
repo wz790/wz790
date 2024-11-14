@@ -68,13 +68,15 @@ const wz790 = {
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
 </p>
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wz790&show_icons=true&theme=radical)](https://github.com/wz790)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wz790&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wz790&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/wz790)
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wz790&layout=compact&theme=radical)](https://github.com/wz790)
 
@@ -82,15 +84,8 @@ const wz790 = {
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wz790&show_icons=true&theme=radical" alt="wz790's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wz790&theme=radical" alt="wz790's GitHub Streak" />
-</div>
+---
 
 ## 🎯 Current Projects
 
@@ -135,12 +130,13 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 ---
 
 <div align="center">
-  <img src="/api/placeholder/100/100" alt="profile views" width="120">
-  <br>
   
-  ![Visitor Count](https://profile-counter.glitch.me/wz790/count.svg)
+### 👀 Profile Views
   
-  <p>Thanks for visiting! Here's a snake eating my contributions 🐍</p>
+![Profile Views](https://komarev.com/ghpvc/?username=wz790&color=blueviolet&style=for-the-badge)
+
+<p>Thanks for visiting! Here's a snake eating my contributions 🐍</p>
   
-  ![Snake animation](https://github.com/wz790/wz790/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wz790/wz790/blob/output/github-contribution-grid-snake.svg)
+
 </div>
