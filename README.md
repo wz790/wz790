@@ -77,7 +77,6 @@ const wz790 = {
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wz790&show_icons=true&theme=tokyonight)](https://github.com/wz790)
 
 </div>
----
 
 ## 🎯 Current Projects
 
