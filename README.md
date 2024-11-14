@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://media1.tenor.com/m/AuBOgaPV41cAAAAd/shinya-shinyahiragi.gif" alt="cool wave" width="50"><br>
+  <img src="https://media1.tenor.com/m/AuBOgaPV41cAAAAd/shinya-shinyahiragi.gif" alt="cool wave" width="500" ><br>
   Hey there! I'm wz790
 </h2>
 
