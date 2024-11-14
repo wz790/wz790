@@ -4,7 +4,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📚+Always+learning+new+things&font=Fira%20Code&center=true&width=500&height=50&color=00BFFF&vCenter=true&size=26&bold=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+learning+new+things;&font=Fira%20Code&center=true&width=550&height=60&color=00BFFF&vCenter=true&size=28&pause=1000&duration=4000">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Passionate%20Coder-0D1117?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00BFFF">
+  <img src="https://img.shields.io/badge/-Always%20Learning-0D1117?style=for-the-badge&logo=Udemy&logoColor=ffdd00">
+  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-0D1117?style=for-the-badge&logo=GitHub&logoColor=green">
 </p>
 
 <div align="center">
