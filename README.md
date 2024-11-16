@@ -7,16 +7,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+Learning+New+Things;&font=Fira%20Code&center=true&width=600&height=30&color=00BFFF&vCenter=true&size=20&pause=1200&duration=3800">
 </p>
 
-<!-- Skills/Interest Badges with Dark Theme and Color Balance -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-📚%20Always%20Learning-1a1a1a?style=for-the-badge&logo=Udemy&logoColor=FFD700">
-</p>
-
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wz790)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wz790)
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20Always%20Learning 📚-1a1a1a?style=for-the-badge&logo=Udemy&logoColor=FFD700">
+</p>
 
 ## 🚀 About Me
 
