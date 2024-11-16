@@ -92,11 +92,6 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 - Comprehensive moderation system
 - Premium music features
 
-### 🌐 [Add Your Other Projects Here]
-- Project description
-- Key features
-- Technologies used
-
 ## 🎮 When I'm Not Coding
 
 - 🎮 Gaming
