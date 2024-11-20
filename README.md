@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+Learning+New+Things;&font=Fira%20Code&center=true&width=600&height=30&color=00BFFF&vCenter=true&size=20&pause=1200&duration=3800">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+Discord+Bot+Developer;📘+Always+Learning+New+Things;&font=Fira%20Code&center=true&width=600&height=30&color=6C72CB&vCenter=true&size=20&pause=1200&duration=3800">
 </p>
 
 <div align="center">
