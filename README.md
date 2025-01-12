@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://tenor.com/sNl4.gif" alt="cool wave" width="300" ><br>
+  <img src="http://bella4523.b.e.pic.centerblog.net/999705fa.gif" alt="cool wave" width="300" ><br>
   Hey there! I'm wz790
 </h2>
 
