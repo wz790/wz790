@@ -88,7 +88,7 @@ A feature-rich Discord bot with moderation, music, fun commands, and more!
 
 ## 🎮 Beyond Coding
 - 🎮 Gaming
-- 🎵 Listening to Music
+- 🕋 Listening to Quran <3
 - 🌱 Learning New Technologies
 - 🤝 Contributing to Open Source
 
